@@ -1,0 +1,21 @@
+img{
+    width: 440px;
+    height: 440px;
+}
+
+.links {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    font-size: 25px;
+    text-transform: capitalize;
+}
+
+.links a{
+    text-decoration: none;
+}
+
+a:hover {
+    color:yellow;
+}
