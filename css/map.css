@@ -2,3 +2,20 @@ img{
     width: 420px;
     height: 420px;
 }
+
+p{
+    color: black;
+    padding: 20px;
+    margin: 0;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{
+    
+    background-color: green;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

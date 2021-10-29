@@ -19,3 +19,31 @@ img{
 a:hover {
     color:yellow;
 }
+
+h1{
+    background-color: green;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p{
+    color: black;
+    padding: 20px;
+    margin: 0;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2{
+    background-color: green;
+    color: white;
+    text-align: center;
+    font-size:35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+li{
+    font-size: 30px;
+}
